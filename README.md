@@ -5,6 +5,7 @@
 2.	Unzip file and put the "getdata-projectfiles-UCI HAR Dataset" folder into working directory
 3.	Open RStudio and set working directory
 4.	Download and run the run_analysis.R script in RStudio  
+
 ##Results
 * tidydata.txt
 * tidydatamean.txt
