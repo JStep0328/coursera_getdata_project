@@ -221,19 +221,19 @@ Factor variable with 30 levels
 The 30 subjects tested  
 **2. laying**  
 Numeric variable  
-The average of all variables for laying by each subject  
+The average of all variables for activity of laying by each subject  
 **3. sitting**  
 Numeric variable  
-The average of all variables for sitting by each subject  
+The average of all variables for activity of sitting by each subject  
 **4. standing**  
 Numeric variable  
-The average of all variables for standing by each subject  
+The average of all variables for activity of standing by each subject  
 **5. walking**  
 Numeric variable  
-The average of all variables for walking by each subject  
+The average of all variables for activity of walking by each subject  
 **6. walkingdownstairs**  
 Numeric variable  
-The average of all variables for walkingdownstairs by each subject  
+The average of all variables for activity of walkingdownstairs by each subject  
 **7. walkingupstairs**  
 Numeric variable  
-The average of all variables for walkingupstairs by each subject
+The average of all variables for activity of walkingupstairs by each subject
