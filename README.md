@@ -38,7 +38,7 @@ Combine the Test and Training data frames into one data frame
 Used the `car` package in RStudio and relabelled the numeric values within the activity column which were defined in the file activity_labels.txt within the UCI HAR Dataset folder  
 `require(car)`  
 `df$activity <- recode(df$activity,'1 = "walking";2 = "walkingupstairs";3 = "walkingdownstairs";4="sitting";5 = "standing";6 = "laying"', as.factor.result = T)`  
-Redefined the subject column as a factor
+Redefined the subject column as a factor  
 `df$subject <- factor(df$subject)`  
 ###Step 6: Extract only the Mean and Standard Deviation columns (as well as subject and activity)
 `n <- names(df)`  
